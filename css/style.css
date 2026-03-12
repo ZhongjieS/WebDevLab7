@@ -1,0 +1,83 @@
+/* Custom Reset and Base Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ffffff;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-style: italic;
+  font-weight: 300;
+  color: #a0a0a0;
+}
+
+table {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background-color: #1a1c2c;
+}
+
+caption {
+  padding: 20px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #4cc9f0;
+}
+
+th, td {
+  border: 1px solid #613f3f;
+  padding: 12px 15px;
+  text-align: center;
+}
+
+thead th {
+  background-color: #1a1c2c;
+  color: #4cc9f0;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.row-label {
+  text-align: left;
+  font-weight: bold;
+  background-color: #1a1c2c;
+  color: #ffffff;
+  width: 250px;
+}
+
+
+.planet-size {
+  width: 80px;
+  height: auto;
+}
+
+.image-row td {
+  padding: 20px 10px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.8rem;
+}
+
+.image-row td {
+  padding: 20px 10px;
+}
